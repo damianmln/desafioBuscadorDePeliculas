@@ -1,0 +1,25 @@
+  [{
+    "title": "Avatar 2",
+    "rating": 8,
+    "tags": ["acción", "favorita", "nueva"],
+    "año":2023
+  },
+  {
+    "title": "shrek",
+    "rating": 7,
+    "tags": ["animacion", "infantil","comedia"],
+    "año":2001
+  },
+  {
+    "title": "scream",
+    "rating": 6,
+    "tags": ["terror", "comedia","misterio"],
+    "año" : 2015
+  },
+  {
+    "title": "cazador en silencio",
+    "rating": 9,
+    "tags": ["suspenso", "drama","nueva"],
+    "año" :2020
+  }]
+    
